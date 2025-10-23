@@ -4,15 +4,11 @@ body {
 }
 
 
-img{
+img {}
 
+.Imagem_Secao1 {
+    width: 568px;
 
 }
-.Imagem_Secao1{width: 568px;
 
-}
-
-#Image_bruh{
-
-    
-}
+#Image_bruh {}
